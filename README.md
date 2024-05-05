@@ -1,2 +1,2 @@
 # SnakeGame
-SCM Group Project:- Uday, Suchet, Vishwas
+SCM Group Project:- Uday Dhir, Suchet Rana, Vishwas Chaurasia 
