@@ -15,3 +15,4 @@ export function outsideGrid(position) {
     position.y > GRID_SIZE
   );
 }
+//code test
